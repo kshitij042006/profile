@@ -5,12 +5,11 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working on a **VR College Walkthrough** (associated with **5G Labs & Sanchar Mitra**).
-- 🌱 I’m currently learning **Node.js, React.js**, and mastering **Data Structures & Algorithms**.
-- 👯 I’m looking to collaborate on **Full Stack Web Projects** and **Community Initiatives**.
-- 🤝 I am an active **NSS Coordinator**, organizing events.
+- 🔭 I’ve worked on a **VR College Walkthrough**.
 - 💬 Ask me about **C++, Python**, and **VR/AR trends**.
-- ⚡ Fun fact **I love playing co-op PC games like "It Takes Two" in my free time!**
+- 🌱 I’m currently learning **Node.js, React.js**, and mastering **Data Structures & Algorithms**.
+- 👯 I’m looking to collaborate on **Full Stack Web Projects**.
+- 🤝 I am an active **learner on leetcode and codechef**.
 
 ---
 
