@@ -56,5 +56,5 @@
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/kshitij-pawar-69a47131b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij-pawar-69a47131b" height="30" width="40" /></a>
-<a href="https://instagram.com/kshitijpawar11.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitijpawar11.11" height="30" width="40" /></a>
+<a href="https://instagram.com/kshitij.pawar11.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitij.pawar11.11" height="30" width="40" /></a>
 </p>
