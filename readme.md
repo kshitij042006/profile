@@ -5,11 +5,11 @@
 
 ## 💫 About Me:
 
-- 🔭 I’ve worked on a **VR College Walkthrough**.
 - 💬 Ask me about **C++, Python**, and **VR/AR trends**.
 - 🌱 I’m currently learning **Node.js, React.js**, and mastering **Data Structures & Algorithms**.
 - 👯 I’m looking to collaborate on **Full Stack Web Projects**.
 - 🤝 I am an active **learner on leetcode and codechef**.
+- - 🔭 I’ve worked on a **VR College Walkthrough**.
 
 ---
 
